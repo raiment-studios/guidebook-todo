@@ -21,7 +21,7 @@ Early but functional prototype `:)`
 **Requires**: [Rust](https://rustup.rs/) to be installed for installation.
 
 ```bash
-cargo install --git https://github.com/raiment-studios/guidebook-plan
+cargo install --git https://github.com/raiment-studios/guidebook-todo
 ```
 
 ## Usage
@@ -89,7 +89,7 @@ guidebook-todo search
 
 ### Contributing
 
-Probably a bit early to accept contributes, but do get in touch if you're interested!
+Probably a bit early to accept contributions, but do get in touch if you're interested!
 
 ### Roadmap
 
