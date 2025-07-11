@@ -10,13 +10,11 @@ Early but functional prototype `:)`
 
 ## Features
 
--   **Terminal-first design** - Built for keyboard-driven productivity
+-   **Terminal-first design** - built to be used without leaving the terminal
 -   **Interactive TUI** - terminal interface for adding, editing, and searching
--   **Local YAML storage** - Human-readable files you own and control
--   **Git integration** - Version control and GitHub sync for backup and collaboration
--   **Fast search** - Advanced search syntax with fuzzy matching
--   **Smart filtering** - Hide completed tasks after 3 seconds, archive old items
--   **Cross-platform** - Works on macOS, Linux, and Windows
+-   **YAML file format** - human-readable files you own and control
+-   **Git integration** - GitHub data storage for sync and revision history
+-   **Fast search** - search syntax with fuzzy matching
 
 ## Installation
 
@@ -102,7 +100,7 @@ Probably a bit early to accept contributes, but do get in touch if you're intere
 
 ### History
 
-The original prototype was created in July 20225 using Claude Sonnet 4. Subjectively, I do not think the AI was used in any way that "stole" or took advantage of any novel work by other people as the AI was used to create a fairly well-enough application (a todo app) that utilizes open source libraries. However, if you are entirely against using tools whose creation included use of AI, please consider this your disclosure about the origins of the original codebase!
+The original prototype was created in July 2025 using Claude Sonnet 4. Subjectively, I do not think the AI was used in any way that unfairly took advantage of any novel work by others people (at least not directly) as the AI was used to construct the bare banes of a well-known class of application (a todo app) that utilizes open source libraries. However, if you are entirely against using tools whose creation included use of AI, please consider this your disclosure about the origins of the original codebase!
 
 ## FAQ
 
