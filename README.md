@@ -1,6 +1,6 @@
 # 🍁 guidebook-todo
 
-A terminal-based, personal todo application written in Rust that stores your todo list on GitHub in a private repo or locally. As a "personal" todo manager, it is intended for use by a single user (not teams).
+A terminal-based, personal todo application written in Rust that stores your todo list on GitHub in a private repo. As a "personal" todo manager, it is intended for use by a single user (not teams).
 
 ![screenshot](docs/image.png)
 
@@ -100,7 +100,7 @@ Probably a bit early to accept contributes, but do get in touch if you're intere
 
 ### History
 
-The original prototype was created in July 2025 using Claude Sonnet 4. Subjectively, I do not think the AI was used in any way that unfairly took advantage of any novel work by others people (at least not directly) as the AI was used to construct the bare banes of a well-known class of application (a todo app) that utilizes open source libraries. However, if you are entirely against using tools whose creation included use of AI, please consider this your disclosure about the origins of the original codebase!
+The original prototype was created in July 2025 using Claude Sonnet 4. Subjectively, I do not think the AI was used in any way that unfairly took advantage of any novel work by others people (at least not directly) as the AI was used to construct the bare bones of a well-known class of application (a todo app) that utilizes open source libraries. However, if you are entirely against using tools whose creation included use of AI, please consider this your disclosure about the origins of the original codebase!
 
 ## FAQ
 
